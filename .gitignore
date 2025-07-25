@@ -15,4 +15,6 @@ ipython_config.py
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 
+.DS_Store
+
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
